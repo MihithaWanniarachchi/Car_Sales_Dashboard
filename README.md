@@ -48,3 +48,7 @@ This project is licensed under the MIT License.
 ## 📧 Contact
 For any queries or suggestions, feel free to reach out via [wanniarachchimihitha@gmail.com].
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/0b048ebb-2307-4a52-8c63-970e3479b604)
+
+
